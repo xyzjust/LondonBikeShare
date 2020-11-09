@@ -8,7 +8,8 @@ Between the year of 2015 and 2017, on average, each day, there were over 27 thou
 
 ## Important Files
 `London_BikeShare_Prediction.ipynb` -- The jupyter notebook of which the analysis is done, using standard python libraries such as pandas, numpy, matplotlib and sklearn etc
-`london_merged.csv` -- The csv file which contains the data used
+
+`london_merged.csv` -- The csv file which contains the data used (the data is from Kaggle, link: https://www.kaggle.com/hmavrodiev/london-bike-sharing-dataset for more information)
 
 Example of Analysis:
 ![alt text](https://raw.githubusercontent.com/xyzjust/LondonBikeShare/main/example_plot.png)
