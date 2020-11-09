@@ -1,5 +1,5 @@
 # LondonBikeShare
-### Analysis of London Bike Share Data between 2015 and 2017
+### Analysis of London Bike Share Usage between 2015 and 2017
 An overview of the London Bike Share usage from 2015 and 2017; the important factors and what it would mean for the future.
 
 [*Supporting article on Medium*](https://medium.com/@junyi_429730731/what-would-make-you-use-a-london-bike-share-b70a3d6a6bf1)
